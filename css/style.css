@@ -1,0 +1,37 @@
+.container-fluid{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.carousel-item img{
+    height: 500px;
+}
+@media screen and (max-width: 768px){
+    div.hide{
+        display: none;
+    }
+} 
+.centre-form{
+    background-color: #e1e4e8;
+    border-radius: 6px;
+}
+a.label-link{
+    float: right;
+}
+p.login-signup{
+    text-align: center;
+    border: 1px solid #d8dee2;
+    padding: 15px 20px;
+    margin-top: 15px;
+    border-radius: 8px;
+}
+.form-body{
+    width: 300px;
+    margin: 0 auto;
+    padding: 15px 0px;
+}
+.form-feilds{
+    padding: 25px;
+}
+.newPost , .myPosts{
+    margin: 20px auto;
+}
